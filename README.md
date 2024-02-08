@@ -24,3 +24,5 @@ In this project, we built a Dashboard to illustrate video games sales for global
         11.Global_Sales       Total worldwide sales.
 The script to scrape the data is available at [github](https://github.com/GregorUT/vgchartzScrape).
 It is based on BeautifulSoup using Python.
+
+You can find video to show this dashboard [here](https://youtu.be/fxSop4PAYWY)
